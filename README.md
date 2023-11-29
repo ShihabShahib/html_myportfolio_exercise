@@ -1,1 +1,1 @@
-# html_myportfolio_exercise
+Exercise of making a portfolio using HTML
